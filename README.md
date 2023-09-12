@@ -1,3 +1,37 @@
+# Cafe Landing Page Using React
+
+
+## Table of contents
+
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Built with](#built-with)
+
+
+
+
+## Overview
+this repository contains code for a cafe landing page using React Framework
+
+### Screenshot
+
+![](./Screenshot.png)
+
+
+
+
+
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- React Framework
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
