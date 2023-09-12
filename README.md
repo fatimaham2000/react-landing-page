@@ -6,7 +6,7 @@
 - [Overview](#overview)
 
 - [Built with](#built-with)
-
+- [Deployment](#deployment)
 
 
 
@@ -25,7 +25,8 @@ this repository contains code for a cafe landing page using React Framework
 - CSS custom properties
 - React Framework
 
-
+### Deployment
+To preview the design, visit https://fatimaham2000.github.io/react-landing-page/
 
 
 
