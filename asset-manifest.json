@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/react-landing-page/static/css/main.656e4ec7.css",
-    "main.js": "/react-landing-page/static/js/main.3cb65518.js",
+    "main.js": "/react-landing-page/static/js/main.435dbae2.js",
     "static/media/1.png": "/react-landing-page/static/media/1.47a2f0f409f2c4d6caaa.png",
     "static/media/cafe-logo.png": "/react-landing-page/static/media/cafe-logo.7f85a495f0467926960b.png",
     "static/media/bg1.svg": "/react-landing-page/static/media/bg1.aa38df071cec3e5bf9860a71b49a0762.svg",
     "index.html": "/react-landing-page/index.html",
     "main.656e4ec7.css.map": "/react-landing-page/static/css/main.656e4ec7.css.map",
-    "main.3cb65518.js.map": "/react-landing-page/static/js/main.3cb65518.js.map"
+    "main.435dbae2.js.map": "/react-landing-page/static/js/main.435dbae2.js.map"
   },
   "entrypoints": [
     "static/css/main.656e4ec7.css",
-    "static/js/main.3cb65518.js"
+    "static/js/main.435dbae2.js"
   ]
 }
