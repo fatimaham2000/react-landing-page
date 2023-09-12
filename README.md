@@ -4,8 +4,8 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Built with](#built-with)
+
+- [Built with](#built-with)
 
 
 
@@ -13,9 +13,6 @@
 ## Overview
 this repository contains code for a cafe landing page using React Framework
 
-### Screenshot
-
-![](./Screenshot.png)
 
 
 
